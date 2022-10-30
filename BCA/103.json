@@ -5,7 +5,7 @@
       "name": "Data organisation",
       "weights": [
         {
-          "year": 2013,
+          "year": 2011,
           "weight": 3
         },
         {
@@ -13,7 +13,7 @@
           "weight": 7.5
         },
         {
-          "year": 2011,
+          "year": 2014,
           "weight": 15
         },
         {
@@ -38,7 +38,7 @@
           "weight": 3
         },
         {
-          "year": 2012,
+          "year": 2013,
           "weight": 7.5
         },
         {
@@ -55,7 +55,7 @@
         },
         {
           "year": 2021,
-          "weight": 45
+          "weight": 27.5
         }
       ]
     },
@@ -164,11 +164,11 @@
         },
         {
           "year": 2020,
-          "weight": 45
+          "weight": 27.5
         },
         {
           "year": 2021,
-          "weight": 45
+          "weight": 27.5
         }
       ]
     },
@@ -214,11 +214,11 @@
         },
         {
           "year": 2020,
-          "weight": 45
+          "weight": 27.5
         },
         {
           "year": 2021,
-          "weight": 45
+          "weight": 27.5
         }
       ]
     },
@@ -400,7 +400,7 @@
         },
         {
           "year": 2021,
-          "weight": 45
+          "weight": 27.5
         }
       ]
     },
@@ -443,7 +443,7 @@
         },
         {
           "year": 2021,
-          "weight": 45
+          "weight": 27.5
         }
       ]
     }
