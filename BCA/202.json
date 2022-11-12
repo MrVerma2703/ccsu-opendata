@@ -5,25 +5,32 @@
         "name": "Array",
          "weights": [
            {
-             "year": 17, "weight": 15
+             "year": 2017,
+             "weight": 15
             },
             {
-             "year": 17, "weight": 3
+             "year": 2017,
+             "weight": 3
             },
             {
-             "year": 18, "weight": 15
+             "year": 2018,
+             "weight": 15
             },
             {
-             "year": 18, "weight": 7.5
+             "year": 2018,
+             "weight": 7.5
             },
             {
-             "year": 18, "weight": 3
+             "year": 2018,
+             "weight": 3
             },
             {
-             "year": 19, "weight": 15
+             "year": 2019,
+             "weight": 15
             },
             {
-             "year": 19, "weight": 3
+             "year": 2019,
+             "weight": 3
             }
           ]
         },
@@ -31,10 +38,12 @@
         "name": "Matrix and transpose",
          "weights": [
            {
-             "year": 19, "weight":7.5
+             "year": 2019, 
+             "weight":7.5
             },
              {
-             "year": 19, "weight": 15
+             "year": 2019,
+             "weight": 15
             }
           ]
         },
@@ -42,10 +51,12 @@
         "name": "Memory",
          "weights": [
            {
-             "year": 18, "weight":7.5
+             "year": 2018,
+             "weight":7.5
             },
              {
-             "year": 19, "weight": 15
+             "year": 2019,
+             "weight": 15
             }
           ]
         },
@@ -53,16 +64,20 @@
         "name": "Functions",
          "weights": [
            {
-             "year": 17, "weight": 7.5
+             "year": 2017,
+             "weight": 7.5
             },
             {
-             "year": 18, "weight": 3
+             "year": 2018,
+             "weight": 3
             },
             {
-             "year": 18, "weight": 7.5
+             "year": 2018,
+             "weight": 7.5
             },
              {
-             "year": 19, "weight": 15
+             "year": 2019,
+             "weight": 15
             }
           ]
         },
@@ -70,10 +85,12 @@
         "name": "BIT operator",
          "weights": [
            {
-             "year": 18, "weight":7.5
+             "year": 2018,
+             "weight":7.5
             },
              {
-             "year": 19, "weight": 15
+             "year": 2019,
+             "weight": 15
             }
           ]
         },
@@ -81,19 +98,24 @@
         "name": "Pointer",
          "weights": [
            {
-             "year": 17, "weight": 15
+             "year": 2017, 
+             "weight": 15
             },
             {
-             "year": 17, "weight": 15
+             "year": 2017,
+             "weight": 15
             },
              {
-             "year": 18, "weight": 15
+             "year": 2018,
+             "weight": 15
             },
             {
-             "year": 18, "weight": 3
+             "year": 2018, 
+             "weight": 3
             },
              {
-             "year": 19, "weight": 3
+             "year": 2019,
+             "weight": 3
             
            }
           ]
